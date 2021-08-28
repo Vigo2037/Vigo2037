@@ -19,10 +19,10 @@
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Rafa-Java" height="30" width="40" src="https://user-images.githubusercontent.com/54655527/131200548-73ca08f2-8701-4b69-b0dc-a1cba35b4232.png">
- <img align="center" alt="Rafa-Rest" height="30" width="40" src="https://user-images.githubusercontent.com/54655527/131200620-0dc1ead0-a824-468e-aa67-e7d5fa39ad00.png">
+  <img align="center" alt="Rafa-Rest" height="30" width="40" src="https://user-images.githubusercontent.com/54655527/131200620-0dc1ead0-a824-468e-aa67-e7d5fa39ad00.png">
+  <img align="center" alt="Rafa-Node" height="30" width="40" src="https://user-images.githubusercontent.com/54655527/131200672-d0053f03-bf0d-4a69-b0d4-212d8caa4e27.png">
 
 
 </div>
