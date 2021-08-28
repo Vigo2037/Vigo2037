@@ -1,8 +1,8 @@
 ### Olá! Eu sou Leandro Vigo.
 
-- 🔭 Hoje trabalho como desenvolvedor Full stack.
-- 🌱 Estudando TADS - Tecnologia, Análise, Desenvolvimento de Sistemas.
-- 👯 Trabalhando na RAPTOR AIR.
+- 🕋 Desenvolvedor Full stack.
+- 🏫 TADS - Tecnologia, Análise, Desenvolvimento de Sistemas.
+-  ⚙ Empresa RAPTOR AIR.
 - 💬 Email: vigo2037@gmail.com
 - 📫 Email: leandro.vigo@raptorair.com
 - 💻 leandrovigo.com
