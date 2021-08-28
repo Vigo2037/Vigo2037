@@ -23,6 +23,7 @@
   <img align="center" alt="Rafa-Java" height="30" width="40" src="https://user-images.githubusercontent.com/54655527/131200548-73ca08f2-8701-4b69-b0dc-a1cba35b4232.png">
   <img align="center" alt="Rafa-Rest" height="30" width="40" src="https://user-images.githubusercontent.com/54655527/131200620-0dc1ead0-a824-468e-aa67-e7d5fa39ad00.png">
   <img align="center" alt="Rafa-Node" height="30" width="40" src="https://user-images.githubusercontent.com/54655527/131200672-d0053f03-bf0d-4a69-b0d4-212d8caa4e27.png">
+  <img align="center" alt="Rafa-Docker" height="30" width="40" src="https://user-images.githubusercontent.com/54655527/131200751-217e6c63-32c5-42fa-9d56-4578f8a0b86f.png">
 
 
 </div>
