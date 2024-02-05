@@ -2,10 +2,12 @@
 
 - 🕋 Desenvolvedor Full stack.
 - 🏫 TADS - Tecnologia, Análise, Desenvolvimento de Sistemas.
--  ⚙ Empresa RAPTOR AIR.
+- 🏫 Engenharia de Software.
+-  ⚙ Empresa WaveTI - Soluções em Tecnologia.
 - 💬 Email: vigo2037@gmail.com
-- 📫 Email: leandro.vigo@raptorair.com
-- 💻 leandrovigo.com
+- 📫 Email: vigo@waveti.com.br
+- 💻 wwww.waveti.com.br
+- 💻 wwww.landgrow.com.br
 
  <div>
   <a href="https://github.com/vigo2037">
