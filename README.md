@@ -3,11 +3,12 @@
 - 🕋 Desenvolvedor Full stack.
 - 🏫 TADS - Tecnologia, Análise, Desenvolvimento de Sistemas.
 - 🏫 Engenharia de Software.
--  ⚙ Empresa WaveTI - Soluções em Tecnologia.
+-  ⚙ TEACHER - TADS - INSTED
+-  ⚙ CEO - Brixon Hub Inoovation.
 - 💬 Email: vigo2037@gmail.com
-- 📫 Email: vigo@waveti.com.br
-- 💻 wwww.waveti.com.br
-- 💻 wwww.landgrow.com.br
+- 📫 Email: leandrovigo@brixoncompany.com
+- 💻 wwww.brixoncompany.com
+- 💻 wwww.insted.edu.br
 
  <div>
   <a href="https://github.com/vigo2037">
